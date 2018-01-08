@@ -1,0 +1,9 @@
+C:\Users\zeeshan.abedin\source\repos\WebTest1\WebTest1\bin\WebTest1.dll.config
+C:\Users\zeeshan.abedin\source\repos\WebTest1\WebTest1\bin\WebTest1.dll
+C:\Users\zeeshan.abedin\source\repos\WebTest1\WebTest1\bin\WebTest1.pdb
+C:\Users\zeeshan.abedin\source\repos\WebTest1\WebTest1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zeeshan.abedin\source\repos\WebTest1\WebTest1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zeeshan.abedin\source\repos\WebTest1\WebTest1\obj\Debug\WebTest1.csprojResolveAssemblyReference.cache
+C:\Users\zeeshan.abedin\source\repos\WebTest1\WebTest1\obj\Debug\WebTest1.csproj.CoreCompileInputs.cache
+C:\Users\zeeshan.abedin\source\repos\WebTest1\WebTest1\obj\Debug\WebTest1.dll
+C:\Users\zeeshan.abedin\source\repos\WebTest1\WebTest1\obj\Debug\WebTest1.pdb
